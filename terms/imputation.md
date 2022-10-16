@@ -1,6 +1,6 @@
 ---
 references:
-- link_title: An overview of gradient descent optimization algorithms - Will Badr
+- link_title: 6 Different Ways to Compensate for Missing Values In a Dataset (Data Imputation with examples) - Will Badr
   link_url: https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779
 - link_title: Imputation (statistics)
   link_url: https://en.wikipedia.org/wiki/Imputation_(statistics)
